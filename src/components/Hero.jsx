@@ -28,7 +28,7 @@ const Hero = () => {
           Fitness.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Coach Andy knows Best.
+          Coach Andy will Revolutionize Fitness.
         </p>
       </div>
 
