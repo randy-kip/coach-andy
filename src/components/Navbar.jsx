@@ -3,7 +3,7 @@ import { useState } from "react";
 import { close, logo, menu } from "../assets";
 import { navLinks } from "../constants";
 
-const NavBar = () => {
+const Navbar = () => {
   // state variables
   const [active, setActive] = useState("Home");
   const [toggle, setToggle] = useState(false);
@@ -61,4 +61,4 @@ const NavBar = () => {
   );
 };
 
-export default NavBar;
+export default Navbar;
